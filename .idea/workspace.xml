@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="compmgmt" />
+    </loaded-modules>
+  </component>
+  <component name="BeansEndpointTabSettings">
+    <option name="showContexts" value="false" />
+    <option name="showFiles" value="false" />
+    <option name="showLibraryBeans" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7855460-352c-482e-b013-f7e7b7f30f84" name="Default Changelist" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/compmgmtUI/compmgmtUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compmgmtUI/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/compmgmtUI/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compmgmtUI/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/compmgmtUI/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compmgmtUI/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/compmgmtUI/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer-management-gui/computer-management-gui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/computer-management-gui/computer-management-gui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.scss" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/compmgmt/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyProjects$CompmgmtApplicationTests.ic" NAME="CompmgmtApplicationTests Coverage Results" MODIFIED="1539012615276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.rainysoft.project.compmgmt.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="DHMS: schema" type="ac44c5e0:OracleImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="DHMS: schema" type="ac44c5e0:OracleImplModel$Schema" />
+        <item name="COMP_INFO: table" type="be4db629:OracleImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="computer management" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="computer management" type="feb32156:DbDataSourceImpl" />
+        <item name="MYPROJECTS: database" type="c8e2528e:H2ImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="computer management" type="feb32156:DbDataSourceImpl" />
+        <item name="MYPROJECTS: database" type="c8e2528e:H2ImplModel$Database" />
+        <item name="PUBLIC: schema" type="4f7ca4f5:H2ImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="computer management" type="feb32156:DbDataSourceImpl" />
+        <item name="MYPROJECTS: database" type="c8e2528e:H2ImplModel$Database" />
+        <item name="PUBLIC: schema" type="4f7ca4f5:H2ImplModel$Schema" />
+        <item name="COMP_INFO: table" type="e4ce7bd9:H2ImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1159843795">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="COMP_INFO" value="3" />
+          <entry key="HOST_INFO" value="2" />
+          <entry key="SCHEMA:DHMS" value="1" />
+          <entry key="SpringLocalModels/module=compmgmt" value="1" />
+          <entry key="class" value="2" />
+          <entry key="css" value="7" />
+          <entry key="html" value="25" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="16" />
+          <entry key="js" value="1" />
+          <entry key="json" value="16" />
+          <entry key="map" value="1" />
+          <entry key="md" value="2" />
+          <entry key="mvnw" value="1" />
+          <entry key="properties" value="6" />
+          <entry key="scss" value="23" />
+          <entry key="sql" value="20" />
+          <entry key="ts" value="47" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="CSS" value="7" />
+          <entry key="Database Element" value="4" />
+          <entry key="HTML" value="25" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="16" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="6" />
+          <entry key="SCSS" value="23" />
+          <entry key="SQL" value="9" />
+          <entry key="Scratch" value="11" />
+          <entry key="SourceMap" value="1" />
+          <entry key="TypeScript" value="47" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="2" />
+          <entry key="tsconfig" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="246" />
+          <entry key="css" value="104" />
+          <entry key="html" value="1462" />
+          <entry key="java" value="1866" />
+          <entry key="json" value="65" />
+          <entry key="properties" value="620" />
+          <entry key="scss" value="134" />
+          <entry key="sql" value="823" />
+          <entry key="ts" value="3369" />
+          <entry key="txt" value="69" />
+          <entry key="xml" value="157" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="104" />
+          <entry key="HTML" value="1462" />
+          <entry key="JAVA" value="1866" />
+          <entry key="JSON" value="52" />
+          <entry key="PLAIN_TEXT" value="69" />
+          <entry key="Properties" value="620" />
+          <entry key="SCSS" value="134" />
+          <entry key="SQL" value="444" />
+          <entry key="Scratch" value="625" />
+          <entry key="TypeScript" value="3369" />
+          <entry key="XML" value="157" />
+          <entry key="tsconfig" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="2" />
+          <entry key="TsLintLanguageService" value="7" />
+          <entry key="TypeScriptServerServiceImpl" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/388b102e-0c37-4882-a01b-fd06691021ff/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="20" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compmgmt/src/main/resources/schema.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compmgmt/src/main/resources/data.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compmgmt/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/service/computer-info.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="package.json" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data.sql</find>
+      <find>persistence</find>
+      <find>float</find>
+      <find>style</find>
+      <find>schematics</find>
+      <find>schem</find>
+      <find>$font-size-lg</find>
+      <find>:</find>
+      <find>:'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>: '</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/computer-management-gui" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/repo/ComputerInfoRepository.java" />
+        <option value="$PROJECT_DIR$/compmgmt/src/test/java/com/rainysoft/project/compmgmt/CompmgmtApplicationTests.java" />
+        <option value="$PROJECT_DIR$/compmgmt/src/test/resources/data-h2.sql" />
+        <option value="$PROJECT_DIR$/compmgmt/src/test/resources/schema.sql" />
+        <option value="$PROJECT_DIR$/compmgmt/src/test/resources/data.sql" />
+        <option value="$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/config/OracleConfig.java" />
+        <option value="$PROJECT_DIR$/compmgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/compmgmt/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/config/UCPDataSourceProperties.java" />
+        <option value="$PROJECT_DIR$/compmgmtUI/node_modules/package.json" />
+        <option value="$PROJECT_DIR$/compmgmtUI/package.json" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/hero.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/mock-hero.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.css" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/message.service.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/messages/messages.component.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/messages/messages.component.html" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/dashboard/dashboard.component.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/dashboard/dashboard.component.css" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/hero.service.ts" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/tsconfig.json" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.html" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/hero-detail/hero-detail.component.html" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/hero-detail/hero-detail.component.ts" />
+        <option value="$PROJECT_DIR$/compmgmtUI/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/computer-management-gui/angular.json" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/app.component.scss" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/index.html" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.scss" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/computer-status.enum.ts" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/computer-info.ts" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/styles.scss" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/comp-grid/comp-grid.component.html" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/comp-grid/comp-grid.component.ts" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/app.module.ts" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/388b102e-0c37-4882-a01b-fd06691021ff/console_2.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/388b102e-0c37-4882-a01b-fd06691021ff/console.sql" />
+        <option value="$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/entity/CompInfoEntity.java" />
+        <option value="$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/ManagementService.java" />
+        <option value="$PROJECT_DIR$/compmgmt/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/compmgmt/src/main/resources/schema.sql" />
+        <option value="$PROJECT_DIR$/computer-management-gui/src/app/service/computer-info.service.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/compmgmtUI/package.json" />
+    <package-json value="$PROJECT_DIR$/../../angular/my-app/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/computer-management-gui/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../../angular/my-app/package.json" />
+      <path value="$PROJECT_DIR$/compmgmtUI/package.json" />
+      <path value="$PROJECT_DIR$/computer-management-gui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1929" />
+    <option name="width" value="1923" />
+    <option name="height" value="2112" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compmgmt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compmgmt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compmgmt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="4c496a8a-0243-4ea1-9686-672d3fe4f0ed" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="navbar-brand&#9;null&#9;null&#10;$navbar-brand-font-size&#9;null&#9;null&#10;da&#9;ACTION&#9;ActivateDatabaseToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/compmgmt" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="D:\git\ideaspace\MyProjects\compmgmtUI\node_modules\tslint" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/computer-management-gui/node_modules/protractor" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\git\angular\my-app\node_modules\typescript\lib" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/compmgmtUI/angular.json" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.rainysoft.project.compmgmt.entity" />
+      <recent name="com.rainysoft.project.compmgmt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\ideaspace\MyProjects\compmgmt\src\main\resources" />
+      <recent name="D:\git\ideaspace\MyProjects\compmgmt\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CompmgmtApplicationTests">
+    <configuration name="All Features in: compmgmtUI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/compmgmtUI" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="compmgmtUI" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: compmgmtUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in compmgmt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compmgmt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompmgmtApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compmgmt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rainysoft.project.compmgmt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rainysoft.project.compmgmt" />
+      <option name="MAIN_CLASS_NAME" value="com.rainysoft.project.compmgmt.CompmgmtApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (compmgmtUI)" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/compmgmtUI/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (computer-management-gui)" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/computer-management-gui/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (compmgmtUI)" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="CompmgmtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="compmgmt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainysoft.project.compmgmt.CompmgmtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (compmgmtUI)" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/compmgmtUI/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server (computer-management-gui)" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/computer-management-gui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CompmgmtApplication" />
+      <item itemvalue="JavaScript Debug.Angular Application (compmgmtUI)" />
+      <item itemvalue="Protractor.E2E Tests (compmgmtUI)" />
+      <item itemvalue="npm.Angular CLI Server (compmgmtUI)" />
+      <item itemvalue="Protractor.E2E Tests (computer-management-gui)" />
+      <item itemvalue="npm.Angular CLI Server (computer-management-gui)" />
+      <item itemvalue="JUnit.All in compmgmt" />
+      <item itemvalue="JUnit.CompmgmtApplicationTests" />
+      <item itemvalue="Cucumber java.All Features in: compmgmtUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompmgmtApplicationTests" />
+        <item itemvalue="Cucumber java.All Features in: compmgmtUI" />
+        <item itemvalue="JUnit.All in compmgmt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7855460-352c-482e-b013-f7e7b7f30f84" name="Default Changelist" comment="" />
+      <created>1536481841615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536481841615</updated>
+      <workItem from="1536481844316" duration="27630000" />
+      <workItem from="1536933703082" duration="17389000" />
+      <workItem from="1537596398408" duration="609000" />
+      <workItem from="1537688654886" duration="2450000" />
+      <workItem from="1537691728574" duration="5440000" />
+      <workItem from="1537712366565" duration="6466000" />
+      <workItem from="1538316598505" duration="598000" />
+      <workItem from="1538399398859" duration="23209000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1539014101173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539014101174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit 2">
+      <created>1539014234944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539014234944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CompmgmtApplicationTests - 2018.09.09 at 20h 53m 20s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.09.09 at 20h 54m 28s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.09.09 at 20h 56m 15s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.09.09 at 20h 57m 13s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.09.09 at 20h 57m 14s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.10.08 at 23h 23m 38s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.10.08 at 23h 24m 40s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.10.08 at 23h 29m 01s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.10.08 at 23h 30m 01s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompmgmtApplicationTests - 2018.10.08 at 23h 30m 27s.xml">
+      <configuration name="CompmgmtApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83791000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976744" visible="true" weight="0.2443385" />
+      <window_info id="Structure" order="1" sideWeight="0.5015601" side_tool="true" weight="0.13150576" />
+      <window_info id="Persistence" order="2" sideWeight="0.5023256" side_tool="true" visible="true" weight="0.2443385" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50116277" side_tool="true" weight="0.25188717" />
+      <window_info id="npm" order="6" sideWeight="0.50116277" side_tool="true" weight="0.25188717" />
+      <window_info id="Learn" order="7" weight="0.32975766" />
+      <window_info id="Web" order="8" sideWeight="0.50116277" side_tool="true" weight="0.25188717" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299532" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299532" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32917318" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32917318" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32683307" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3299532" />
+      <window_info anchor="bottom" id="Database Changes" order="14" weight="0.3299532" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SQL Generator" order="16" weight="0.32969603" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5005821" side_tool="true" weight="0.2185141" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.49941793" visible="true" weight="0.2185141" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.component.spec.js" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/hero.js.map" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/hero.js" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.spec.js" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.js" />
+        <option value="$PROJECT_DIR$/../../angular/my-app/src/app/heroes/heroes.component.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="init commit 2" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/bootstrap/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="400">
+            <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/angular/mdb-angular-free.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/bootstrap/bootstrap-reboot.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/bootstrap/bootstrap-grid.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/bootstrap/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmtUI/node_modules/angular-bootstrap-md/scss/bootstrap/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="648" column="1" selection-start-line="648" selection-start-column="1" selection-end-line="648" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/bootstrap/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="41" selection-start-line="41" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/node_modules/angular-bootstrap-md/scss/angular/free/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="184" column="7" selection-start-line="184" selection-start-column="7" selection-end-line="184" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../angular/my-app/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63776">
+          <caret line="3986" column="1" selection-start-line="3986" selection-start-column="1" selection-end-line="3986" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmtUI/node_modules/mdbootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63856">
+          <caret line="3991" column="21" selection-start-line="3991" selection-start-column="21" selection-end-line="3991" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/computer-management-gui.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="69" lean-forward="true" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/computer-status.enum.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/computer-info.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/comp-grid/comp-grid.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/navbar/navbar.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/comp-grid/comp-grid.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/comp-grid/comp-grid.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ag-grid-angular#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/comp-grid/comp-grid.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/repo/ComputerInfoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/388b102e-0c37-4882-a01b-fd06691021ff/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/388b102e-0c37-4882-a01b-fd06691021ff.SCHEMA:DHMS">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>388b102e-0c37-4882-a01b-fd06691021ff.SCHEMA:DHMS</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8" x="380.0" y="405.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/388b102e-0c37-4882-a01b-fd06691021ff/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/config/OracleConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/config/UCPDataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/entity/CompInfoEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/test/java/com/rainysoft/project/compmgmt/CompmgmtApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://388b102e-0c37-4882-a01b-fd06691021ff/schema/DHMS/table/COMP_INFO">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SpringLocalModels/module=compmgmt">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>module=compmgmt</OriginalElement>
+          <nodes>
+            <node x="0.0" y="30.5">module=compmgmt</node>
+            <node x="185.5" y="0.0">fileset=compmgmt/CompmgmtApplication</node>
+            <node x="438.0" y="30.5">com.rainysoft.project.compmgmt.CompmgmtApplication</node>
+            <node x="675.0" y="0.0">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+            <node x="957.0" y="91.5">com.rainysoft.project.compmgmt.config.OracleConfig</node>
+            <node x="907.0" y="30.5">org.springframework.boot.context.properties.EnableConfigurationProperties</node>
+            <node x="170.0" y="61.0">fileset=compmgmt/CompmgmtApplication MVC</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.rainysoft.project.compmgmt.CompmgmtApplication" target="com.rainysoft.project.compmgmt.config.OracleConfig">
+              <point x="78.5" y="5.25" />
+              <point x="675.0" y="71.5" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="fileset=compmgmt/CompmgmtApplication MVC" target="com.rainysoft.project.compmgmt.CompmgmtApplication">
+              <point x="94.0" y="-0.0" />
+              <point x="-78.5" y="5.25" />
+            </edge>
+            <edge source="com.rainysoft.project.compmgmt.config.OracleConfig" target="com.rainysoft.project.compmgmt.config.OracleConfig">
+              <point x="49.0" y="5.25" />
+              <point x="827.0" y="76.75" />
+              <point x="907.0" y="102.0" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="module=compmgmt" target="fileset=compmgmt/CompmgmtApplication">
+              <point x="45.0" y="-5.25" />
+              <point x="170.0" y="10.5" />
+              <point x="-78.5" y="-0.0" />
+            </edge>
+            <edge source="com.rainysoft.project.compmgmt.config.OracleConfig" target="org.springframework.boot.context.properties.EnableConfigurationProperties">
+              <point x="49.0" y="-5.25" />
+              <point x="827.0" y="66.25" />
+              <point x="-99.0" y="-0.0" />
+            </edge>
+            <edge source="com.rainysoft.project.compmgmt.CompmgmtApplication" target="org.springframework.boot.autoconfigure.SpringBootApplication">
+              <point x="78.5" y="-5.25" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="fileset=compmgmt/CompmgmtApplication" target="com.rainysoft.project.compmgmt.CompmgmtApplication">
+              <point x="78.5" y="-0.0" />
+              <point x="358.0" y="10.5" />
+              <point x="-78.5" y="-5.25" />
+            </edge>
+            <edge source="module=compmgmt" target="fileset=compmgmt/CompmgmtApplication MVC">
+              <point x="45.0" y="5.25" />
+              <point x="-94.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-25.5" y="-318.5" />
+          <SelectedNodes>
+            <node>fileset=compmgmt/CompmgmtApplication MVC</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/java/com/rainysoft/project/compmgmt/ManagementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/388b102e-0c37-4882-a01b-fd06691021ff/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/resources/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compmgmt/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-management-gui/src/app/service/computer-info.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>compmgmt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
