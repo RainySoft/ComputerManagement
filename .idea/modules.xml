@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/compmgmt/compmgmt.iml" filepath="$PROJECT_DIR$/compmgmt/compmgmt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/computer-management-gui/computer-management-gui.iml" filepath="$PROJECT_DIR$/computer-management-gui/computer-management-gui.iml" />
-    </modules>
-  </component>
-</project>
